@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Research Assistant
     company: Jalisco Economy Platform
-    company_url: ''
+    company_url: 'https://economiajalisco.cucea.udg.mx/'
     company_logo: org-gc
     location: California
     date_start: '2021-01-01'
