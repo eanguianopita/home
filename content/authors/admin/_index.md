@@ -51,7 +51,7 @@ social:
     link: https://scholar.google.com/citations?hl=es&user=dERUZv0AAAAJ&view_op=list_works&sortby=pubdate
   - icon: github
     icon_pack: fab
-    link: https://github.com/JEAnguiano
+    link: https://github.com/eanguianopita
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/anguianopita/
