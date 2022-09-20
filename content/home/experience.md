@@ -38,7 +38,7 @@ experience:
   - title: Data specialist and government financial analyst
     company: Institute for the Technical Development of Public Budgets
     company_url: 'https://www.indetec.gob.mx/'
-    company_logo: plataforma
+    company_logo: indetec
     location: Guadalajara, Jal. (Mexico)
     date_start: '2017-11-15'
     date_end: '2018-05-31'
