@@ -25,5 +25,7 @@ featured: false
 image:
   caption: 'Image credit: [**UDGTV**](https://photos.app.goo.gl/UJPKsHYef8vSfmvp7)'
   focal_point: Right
+
+slides: TMEC.pdf
 ---
 
