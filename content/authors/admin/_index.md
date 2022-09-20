@@ -69,13 +69,10 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I completed my PhD at the University of Guadalajara in september 2022. My dissertation entitled Essays on the North American Economic Integration analyses the trade and financial relationships between Canada, the U.S., and Mexico from a long-run perspective. 
 
-I am  a PhD candidate in Economic Studies at Universidad de Guadalajara (Mexico), specializing in international macroeconomics, econometrics of high-dimensional models, and financial development. 
+My research interests are in International Macroeconomics, Development Economics, and Regional Economics. My secondary fields are Business Cycles Analysis, Applied Econometrics, and Energy Economics.   
 
-My current research focuses in the trade and financial relationships in North America, and their macroeconomic implications. I also work on the relationship between energy prices and economic activity in Mexico. I have a particular interest in business cycles analysis. 
-
-I most recently taught undergraduated and graduated Econometrics courses, and Applied Time Series Econometrics. I am teaching Financial Econometrics in the fall of 2022. 
-
-The recent versions of my manuscripts are below. You can reach me at email if you want. 
+The publication versions of my manuscripts are below. You can reach me at email adress je.ptt(at)hotmail(dot)com. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
