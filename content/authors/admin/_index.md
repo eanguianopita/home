@@ -69,7 +69,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I completed my PhD at the University of Guadalajara in september 2022. My dissertation entitled Essays on North American Economic Integration analyses the trade and financial relationships between Canada, the U.S., and Mexico.
+I completed my PhD at the University of Guadalajara in September 2022. My dissertation entitled Essays on North American Economic Integration analyses the trade and financial relationships between Canada, the U.S., and Mexico.
 
 My research interests are mainly in International Macroeconomics, Development Economics, and Regional Economics. My secondary fields are Business Cycles Analysis, Applied Econometrics, and Energy Economics.   
 
