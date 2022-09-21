@@ -41,6 +41,6 @@ abstract: 'We study the changes in interest rates, exchange rates and prices in 
   than for the other countries; 5) the inflation of Canada cannot be modelled; and
   6) good and bad news have asymmetric impacts on the volatility of the series. The
   study uses monthly series for the period between February 1992 and February 2015.'
-publication: '*Modelado de fenómenos económicos y financieros: Una visión contemporánea*'
+publication: 'Modelado de fenómenos económicos y financieros: Una visión contemporánea. Ch. 14, pp. 331-357.'
 url_pdf: http://yuss.me/revistas/capitulos/2017c018aFVM.pdf
 ---

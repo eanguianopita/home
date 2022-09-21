@@ -10,7 +10,7 @@ tags:
 - Business cycle synchronization; trade integration; financial integration; productive
   specialization; North America
 categories: []
-date: '2022-01-01'
+date: '2022-05-01'
 lastmod: 2022-09-20T11:42:11-05:00
 featured: false
 draft: false
@@ -42,7 +42,7 @@ abstract: 'This article analyzes the role of trade and financial integration, pr
   2) intra-industrial trade predominates in the region; 3) trade and financial integration
   processes are complementary; 4) financial integration promotes productive specialization;
   and, 5) progresses in trade and financial integration within the region are heterogeneous.'
-publication: ''
+publication: 'Estudios de Economía, 49(1), pp. 63-89'
 links:
 - name: URL
   url: https://estudiosdeeconomia.uchile.cl/index.php/EDE/article/view/67362

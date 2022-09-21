@@ -41,6 +41,6 @@ abstract: This document provides an account of the economic effects of the COVID
   effects of the pandemic and its effects on production and employment levels. A forecast
   is presented for the main indicators of the Mexican economy, as well as the potential
   risks that could limit economic recovery.
-publication: '*Economics, Health and Public Policy*'
+publication: 'Economics, Health and Public Policy. Ch.1, pp. 11-32.'
 url_pdf: https://www.cucea.udg.mx/include/publicaciones/coorinv/pdf/EconomiaSaludyPoliticasPublicas.pdf
 ---

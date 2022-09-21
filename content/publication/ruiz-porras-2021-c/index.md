@@ -42,8 +42,7 @@ abstract: 'We study the integration of the money, currency and stock markets of 
   integration between United and Mexico has gradually decreased. We use monthly data
   of interest rates, exchange rates and stock indices for the period from January
   1995 to December 2016.'
-publication: '*Mexico’s Economic BalanceandtherenegotiationoftheFreeTradeAgreement.The
-  beginning of a new agreement: USMCA*'
+publication: 'Balance Económico de México y Renegociación del Tratado de Libre Comercio. Ch. 4, pp. 71-88'
 doi: https://doi.org/10.52501/sn.003
 url_pdf: https://comunicacion-cientifica.com/wp-content/uploads/2021/09/sn003.-Balance-economico-de-Mexico-INTERIORES2-CC2.pdf
 ---

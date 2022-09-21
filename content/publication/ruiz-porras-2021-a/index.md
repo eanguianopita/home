@@ -37,8 +37,7 @@ abstract: In this study we investigate the possible cointegration and direction 
   test is used to examine the existence of long-run relationships and long-run elasticities
   are estimated by Fully Modified Ordinary Least Squares (FMOLS) and Dynamic Ordinary
   Least Squares (DOLS). Further,
-publication: '*Recent developments in financial econometrics and economic development
-  II*'
+publication: 'Avances en economía internacional, finanzas y desarrollo. Ch.6, pp.155-180 '
 url_pdf: https://www.cucea.udg.mx/include/publicaciones/coorinv/pdf/Avances en Economia
   Internacional, Finanzas y Desarrollo [UDG-2021] Gualajara Estrada, VH & Ruiz Porras,
   A (Coords) (1).pdf

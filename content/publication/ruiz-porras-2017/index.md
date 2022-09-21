@@ -41,6 +41,6 @@ abstract: 'We study the interest rates, the exchange rates and the prices in the
   structural changes; and 5) the changes have tended to coincide with the Mexican
   crisis of 1995 and the US crisis of 2008. The study uses monthly series for the
   period between January 1992 and February 2015.'
-publication: '*Los desafíos de la economía mexicana: El sector externo I*'
+publication: 'Los desafíos de la economía mexicana: El sector externo I. Ch. 6, pp. 137-166.'
 url_pdf: http://yuss.me/revistas/Libros/book2017aFVMn018.pdf
 ---

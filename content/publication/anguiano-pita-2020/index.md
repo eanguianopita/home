@@ -41,6 +41,6 @@ abstract: 'This study examines the relationship between financial development an
   components; iii) the causal relationship between financial development and economic
   growth depends on the financial indicators considered. The findings can be useful
   to analyze the integration process in North America and to propose regional policies.'
-publication: ''
+publication: 'Revista Finanzas y Política Económica, 12(1), pp. 165-199'
 doi: https://doi.org/10.14718/revfinanzpolitecon.v12.n1.2020.3082
 ---

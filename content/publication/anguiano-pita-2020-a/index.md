@@ -42,6 +42,6 @@ abstract: 'The aim of this paper is to study the dynamics of the integration pro
   stock markets are the most sensitive to the common components. These findings may
   be useful to analyze the evolution of NAFTA and to propose economic and financial
   regional policies.'
-publication: ''
+publication: 'Lecturas de Economía, 92, pp.67-100.'
 doi: https://doi.org/10.17533/udea.le.n92a03
 ---

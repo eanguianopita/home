@@ -44,7 +44,7 @@ abstract: The literature concerning tourism forecasting points out the role play
   to the international tourist arrivals to Mexico. We conclude that the neoliberal
   process contributes significantly to the growth of international tourism due to
   the minimu, protectionist barriers of the Mexican government.
-publication: '*Rebuilding the Economy: EconomicPolicies for Recovery and Development*'
+publication: 'Rebuilding the Economy: EconomicPolicies for Recovery and Development. Ch. 4, pp. 155-180'
 url_pdf: https://www.cucea.udg.mx/include/publicaciones/coorinv/pdf/Rebuilding the
   Economy.pdf
 ---

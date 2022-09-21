@@ -40,7 +40,7 @@ abstract: 'We study the dynamics, volatilities, and interrelations of the Mexica
   interrelations among the volatilities of returns, and 4) good and bad news have
   asymmetric impacts on the volatilities. The study uses daily data of oil spot prices
   and their returns for the period 01/03/2000- 11/02/2016.'
-publication: ''
+publication: 'Ensayos. Revista de Economía, XXXV(2), pp.175-194'
 links:
 - name: URL
   url: https://ensayos.uanl.mx/index.php/ensayos/article/view/10

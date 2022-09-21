@@ -41,6 +41,6 @@ abstract: 'We study the integration of the money, currency and stock markets of 
   4) financial integration processes have been heterogeneous among the markets and
   the countries. We use monthly series representative of the financial markets for
   the period from January 1995 to January 2019.'
-publication: ''
+publication: 'Análisis Económico, 34(87), pp. 9-40.'
 doi: https://doi.org/10.24275/uam/azc/dcsh/ae/2019v34n87/Ruiz
 ---

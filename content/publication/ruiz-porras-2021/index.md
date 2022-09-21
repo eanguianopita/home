@@ -41,6 +41,6 @@ abstract: 'We study the interdependence between oil prices and economic activity
   and June 2012. The study uses a series of variations and monthly volatilities of
   the spot oil prices MAYA, WTI, and Brent, and the IGAE indicator from February 1993
   to December 2019.'
-publication: ''
+publication: 'Ensayos. Revista de Economía. 40(2), pp. 159-188.'
 doi: https://doi.org/10.29105/ensayos40.2-3
 ---
