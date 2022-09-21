@@ -75,4 +75,4 @@ My research interests are mainly in International Macroeconomics, Development Ec
 
 The publication versions of my manuscripts are below. You can reach me at email adress je.ptt(at)hotmail(dot)com. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
