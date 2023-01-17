@@ -69,12 +69,16 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a Ph.D. Candidate in Economic Studies at Universidad de Guadalajara (Mexico). 
+I am a PhD Economist, working as a research assistant at the Jalisco Economy Platform at Universidad de Guadalajara (Mexico). I defended my doctoral dissertation at Universidad de Guadalajara in November 2022. 
 
-I received my master's and bachelor's degrees from Universidad de Guadajara in 2017 an 2015. I am a macroeconomist, specializing in regional economic integration. 
+In my dissertation I analyze the effects of the North American Free Trade Agreement (NAFTA) and globalization in the trade and financial relationships between Canada, the U.S., and Mexico. 
 
-My fields of interest are: International Macroeconomics, Development Economics, and Applied Economics.
+My research interests are International Macroeconomics, Development Economics, and Applied Econometrics. 
 
-The publication versions of my manuscripts are below. You can reach me at email adress je.ptt(at)hotmail(dot)com. 
+I will be on the job market during the 2022-2023 academic year and I will be available for virtual interviews at the ASSA Job Market. 
+
+You can reach me on je.ptt[at]hotmail.com.
+
+The publication versions of my manuscripts are below. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
