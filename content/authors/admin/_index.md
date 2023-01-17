@@ -18,9 +18,9 @@ bio: My research interests include International Macroeconomics, Development Eco
 
 # Interests to show in About widget
 interests:
+  - International Macroeconomics
+  - Development Economics 
   - Applied Econometrics
-  - International Economics 
-  - Bussiness cycles analysis
 
 # Education to show in About widget
 education:
