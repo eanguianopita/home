@@ -73,8 +73,6 @@ I am a Ph.D. Candidate in Economic Studies at Universidad de Guadalajara (Mexico
 
 I received my master's and bachelor's degrees from Universidad de Guadajara in 2017 an 2015. I am a macroeconomist, specializing in regional economic integration. 
 
-My research focuses on the trade and financial relationships between Canada, the U.S. and Mexico, with special emphasis on financial market integration and development.
-
 My fields of interest are: International Macroeconomics, Development Economics, and Applied Economics.
 
 The publication versions of my manuscripts are below. You can reach me at email adress je.ptt(at)hotmail(dot)com. 
