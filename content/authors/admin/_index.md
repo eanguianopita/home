@@ -74,14 +74,11 @@ I am a PhD Economist, working as a research assistant in the macroeconomic polic
 
 In my dissertation I analyze the effects of the North American Free Trade Agreement (NAFTA) and globalization in the trade and financial relationships between Canada, the U.S., and Mexico. 
 
-My research interests are International Macroeconomics, Development Economics, and Applied Econometrics. 
+My research interests are: International Macroeconomics, Development Economics, and Applied Econometrics. 
 
 I will be on the job market during the 2022-2023 academic year and I will be available for virtual interviews at the ASSA Job Market. 
 
 You can reach me on je.ptt[at]hotmail.com.
-
-The publication versions of my manuscripts are below. 
-
 </p>
 
 
