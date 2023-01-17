@@ -70,7 +70,7 @@ email: 'je.ptt@hotmail.com'
 highlight_name: true
 ---
 <p align="justify">
-I am a PhD Economist, working as a research assistant at the Jalisco Economy Platform at Universidad de Guadalajara (Mexico). I defended my doctoral dissertation at Universidad de Guadalajara in November 2022. 
+I am a PhD Economist, working as a research assistant in the macroeconomic policy module at the Jalisco Economy Platform. I defended my doctoral dissertation at Universidad de Guadalajara in November 2022. 
 
 In my dissertation I analyze the effects of the North American Free Trade Agreement (NAFTA) and globalization in the trade and financial relationships between Canada, the U.S., and Mexico. 
 
@@ -81,7 +81,8 @@ I will be on the job market during the 2022-2023 academic year and I will be ava
 You can reach me on je.ptt[at]hotmail.com.
 
 The publication versions of my manuscripts are below. 
-    </p>
+
+</p>
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
