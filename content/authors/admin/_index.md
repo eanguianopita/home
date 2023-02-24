@@ -70,7 +70,9 @@ email: 'je.ptt@hotmail.com'
 highlight_name: true
 ---
 <p align="justify">
-I'm an economist with interests in macro, international, and development economics. My work is particularly focused on the effects of the trade and financial relationships between Canada, the U.S., and Mexico in the development of financial markets and economic growth. I've previously worked on the determinants of business cycle synchronization, the relationship between oil prices and economic activity in Mexico, and the effects of the COVID-19 pandemic on the macroeconomic performance of the Mexican States.
+I'm an economist with interests in macro, international, and development economics. My work is particularly focused on the effects of the trade and financial relationships between Canada, the U.S., and Mexico in the development of financial markets and economic growth. 
+
+I've previously worked on the determinants of business cycle synchronization, the relationship between oil prices and economic activity in Mexico, and the effects of the COVID-19 pandemic on the macroeconomic performance of the Mexican States.
 
 I am a Research Assistant in Comparative Macroeconomic Policy Analysis at the Jalisco Economy Platform. I have a PhD in Economic Studies, a Masters in Economics and a BA in Economics from Universidad de Guadalajara. 
 
