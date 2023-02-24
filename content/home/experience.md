@@ -31,9 +31,9 @@ experience:
     date_end: ''
     description: |2-
            
-        * Prepared research papers and technical notes on the socioeconomic effects of the COVID-19 pandemic in Jalisco and Mexico.
-        * Collaborated with the PI to design an econometric model to predict the dynamics of production, employment, inflation, and poverty at the national and state levels.
-        * Responsible for preparing audiovisual material for press conferences and webinars.
+        * -Prepared research papers and technical notes on the socioeconomic effects of the COVID-19 pandemic in Jalisco and Mexico.
+        * -Collaborated with the PI to design an econometric model to predict the dynamics of production, employment, inflation, and poverty at the national and state levels.
+        * -Responsible for preparing audiovisual material for press conferences and webinars.
 
 
 
@@ -46,9 +46,9 @@ experience:
     date_end: '2018-05-31'
     description: |2-
            
-        * Elaborated technical notes on the evolution of state and municipal public finances.
-        * Designed executive material to meet the needs of the National Fiscal Coordination System.
-        * Contributed to the development of a matrix of institutional, economic, and financial variables to measure the financial risk solvency of subnational governments and decentralized public entities. 
+        * -Elaborated technical notes on the evolution of state and municipal public finances.
+        * -Designed executive material to meet the needs of the National Fiscal Coordination System.
+        * -Contributed to the development of a matrix of institutional, economic, and financial variables to measure the financial risk solvency of subnational governments and decentralized public entities. 
 
   - title: Financial Performance Measurement Officer
     company: National Forestry Commission of Mexico
@@ -59,9 +59,9 @@ experience:
     company_logo: conafor
     description: |2-
 
-      * Prepared technical reports on the evolution of the budget performance indicators contained in the logical framework matrices in use by the institution.  
-      * Collaborated in the design and loading of the logical framework matrices in the Performance Evaluation System (PES) of the Ministry of Finance and Public Credit (SHCP), as well as in the preparation of the 2018 annual work plan. 
-      * Coordinated the request/provision of financial information to the Ministry of the Environment and Natural Resources (SEMARNAT) and Superior Audit Office (ASF).
+      * -Prepared technical reports on the evolution of the budget performance indicators contained in the logical framework matrices in use by the institution.  
+      * -Collaborated in the design and loading of the logical framework matrices in the Performance Evaluation System (PES) of the Ministry of Finance and Public Credit (SHCP), as well as in the preparation of the 2018 annual work plan. 
+      * -Coordinated the request/provision of financial information to the Ministry of the Environment and Natural Resources (SEMARNAT) and Superior Audit Office (ASF).
 design:
   columns: '2'
 ---
