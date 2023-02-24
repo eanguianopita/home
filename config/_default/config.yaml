@@ -10,7 +10,7 @@ baseURL: 'https://emmanuelanguiano.netlify.app//' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: es
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
