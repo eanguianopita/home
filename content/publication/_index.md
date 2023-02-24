@@ -13,4 +13,7 @@ view: 1
 header:
   caption: ''
   image: ''
+
+  justifyContent = true
+  Set "text-align: justify" to .post-content
 ---
