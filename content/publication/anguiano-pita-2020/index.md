@@ -32,7 +32,9 @@ projects: []
 publishDate: '2022-09-20T16:42:12.641585Z'
 publication_types:
 - '2'
-abstract: 'This study examines the relationship between financial development and
+abstract: 
+<p align="justify">
+'This study examines the relationship between financial development and
   economic growth in the North American region. For this purpose, it uses the generalized
   dynamic factor model proposed by Forni et al. (2005) and annual data from the United
   States, Canada, and Mexico for the period 1980-2017. The findings suggest that:
@@ -41,6 +43,7 @@ abstract: 'This study examines the relationship between financial development an
   components; iii) the causal relationship between financial development and economic
   growth depends on the financial indicators considered. The findings can be useful
   to analyze the integration process in North America and to propose regional policies.'
+  </p>
 publication: 'Revista Finanzas y Política Económica, 12(1), pp. 165-199'
 doi: https://doi.org/10.14718/revfinanzpolitecon.v12.n1.2020.3082
 ---
