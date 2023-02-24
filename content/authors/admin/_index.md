@@ -70,9 +70,11 @@ email: 'je.ptt@hotmail.com'
 highlight_name: true
 ---
 <p align="justify">
-I am a macroeconomist, working as a research assistant at the Plataforma Economía de Jalisco (Universidad de Guadalajara). I am in charge of developing technical notes and macroeconomic forecasts about the economic reactivation of Jalisco and Mexico during the COVID-19 pandemic. 
 
- I hold a Ph.D. in Economic Studies from Universidad de Guadalajara. My current research study the trade and financial relationships between Canada, the U.S., and México from a long-run perspective. 
+
+I'm an economist with interests in macro and international economics. My work is particularly focused on the trade and financial relationships between Canada, the U.S., and Mexico. I've previously worked on the determinants of business cycle synchronization, the relationship between oil prices and economic activity in Mexico, and the effects of the COVID-19 pandemic on the macroeconomic performance of the Mexican States.
+
+I am a Research Assistant in Comparative Macroeconomic Policy Analysis at the Jalisco Economy Platform. I have a PhD in Economic Studies, a Masters in Economics and a BA in Economics from Universidad de Guadalajara. 
 
 You can reach me on je.ptt[at]hotmail.com.
 </p>
